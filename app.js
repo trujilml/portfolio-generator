@@ -196,5 +196,3 @@ fs.writeFile('./index.html', pageHTML, err => {
 });
 
 });
-
-
